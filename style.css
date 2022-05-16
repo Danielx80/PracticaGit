@@ -1,5 +1,5 @@
 :root {
-    --color: #5e1286;
+    --color: #16e456;
   }
   
   body {
@@ -22,7 +22,7 @@
   }
   .dark {
     color-scheme: dark;
-    background: #151515;
+    background: #273746;
   }
   .h,
   .v {
